@@ -1,3 +1,7 @@
+##Projeto
+- Nome: The Reserve
+- Firebase: the-reserve-mobile
+
 ## Integrantes
 
 - Ghabriel de Oliveira Penha
