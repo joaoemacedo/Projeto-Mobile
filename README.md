@@ -8,3 +8,8 @@
 - Ghabriel de Oliveira Penha
 - João Victor Espindola Macedo
 - Rafael Silva Alves
+
+## Firebase
+
+- Código do projeto: the-reserve-mobile
+- Número do projeto: 102785330393
