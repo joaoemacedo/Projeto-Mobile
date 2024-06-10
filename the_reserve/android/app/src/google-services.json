@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102785330393",
+    "project_id": "the-reserve-mobile",
+    "storage_bucket": "the-reserve-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102785330393:android:a75ac6aa02f4de346c22c8",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7smx_RXkHYSSeppX2h6-gUZSqmOTSF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
